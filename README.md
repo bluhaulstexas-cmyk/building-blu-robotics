@@ -10,7 +10,7 @@ I'm **Tim Hauptrief**, a small-business owner, writer and builder in New Braunfe
 - [Build milestones and current status](docs/milestones.md)
 - [CAD sources and attribution](cad/README.md)
 - [Build-log template](docs/build-log-template.md)
-- [Tim Hauptrief — writing and projects](https://timhauptrief.com/)
+- [Tim Hauptrief — writing and projects](https://timhauptrief.com/building-blu-robotics-tim-hauptrief/)
 - [Building Blu Robotics on YouTube](https://www.youtube.com/@BuildingBluRobotics)
 
 ## What we are building
